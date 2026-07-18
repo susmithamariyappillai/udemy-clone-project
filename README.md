@@ -27,6 +27,9 @@ This project demonstrates my understanding of front-end web development concepts
 - Google Fonts
 - Font Awesome
 
+- ## 🚀 Live Demo
+(Add your GitHub Pages link here after deployment)
+
 ## 📁 Folder Structure
 
 ```
