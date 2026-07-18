@@ -28,7 +28,7 @@ This project demonstrates my understanding of front-end web development concepts
 - Font Awesome
 
 - ## 🚀 Live Demo
-(Add your GitHub Pages link here after deployment)
+https://susmithamariyappillai.github.io/udemy-clone-project/
 
 ## 📁 Folder Structure
 
